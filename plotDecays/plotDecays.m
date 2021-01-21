@@ -1,6 +1,7 @@
 % plot T2 decays
 clear
 close all
+clc
 
 wisc_sites = {'Site1-WellG5','Site1-WellG6','Site2-WellPN1','Site2-WellPN2'};
 
